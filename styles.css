@@ -45,6 +45,11 @@ body {
 	text-align: center;
 }
 
+.contact a {
+	text-decoration: none;
+	display: inline-block;
+}
+
 hr {
 	text-align: center;
 }
