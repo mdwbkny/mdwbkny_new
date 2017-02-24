@@ -58,3 +58,23 @@ body {
 hr {
 	text-align: center;
 }
+
+.ttf {
+	width: 350px;
+	height: auto;
+	float: right;
+}
+
+.nooklyn {
+	width: 225px;
+	height: auto;
+	float: left;
+}
+
+.ttf-header {
+	float:left;
+}
+
+.nooklyn-header {
+	float: right;
+}
